@@ -22,7 +22,7 @@ setup(
         "tensorflow==2.11.0",
         "joblib==1.2.0",
         "PyYAML==6.0",
-        "requests==2.28.1",
+        "requests==2.32.2",
         "loguru==0.6.0",
         "matplotlib==3.6.2",
         "seaborn==0.12.1",
