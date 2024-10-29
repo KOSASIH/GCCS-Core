@@ -3,6 +3,15 @@
 [![Project Management Professional (PMP)](https://img.shields.io/badge/PMP-Certified-0072C6?style=flat&logo=pmi)](https://www.pmi.org/certifications/project-management-pmp)
 [![Certified Information Security Manager (CISM)](https://img.shields.io/badge/CISM-Certified-0072C6?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cism)
 [![Certified Information Systems Auditor (CISA)](https://img.shields.io/badge/CISA-Certified-0072C6?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cisa)
+[![Project Management Professional (PMP)](https://img.shields.io/badge/PMP-Certified-0072C6?style=flat&logo=pmi)](https://www.pmi.org/certifications/project-management-pmp)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-Certified-FF9900?style=flat&logo=comptia)](https://www.comptia.org/certifications/security)
+[![Cisco Certified Network Associate (CCNA)](https://img.shields.io/badge/CCNA-Certified-0072C6?style=flat&logo=cisco)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-Certified-FF5733?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Certified-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![Google Cloud Professional Cloud Architect](https://img.shields.io/badge/Google_Cloud_Professional_Cloud_Architect-Certified-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com/certification/cloud-architect)
+[![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/CKA-Certified-0072C6?style=flat&logo=kubernetes)](https://www.cncf.io/certification/cka/)
+[![Certified Data Professional (CDP)](https://img.shields.io/badge/CDP-Certified-5CBBF6?style=flat&logo=dam)](https://www.dama.org/certification/certified-data-professional)
+[![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Certified-FF5733?style=flat&logo=isc2)](https://www.isc2.org/Certifications/CISSP)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/GCCS-Core">Global Climate Control System ( GCCS ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
