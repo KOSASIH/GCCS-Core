@@ -1,0 +1,36 @@
+# example_config.yaml
+
+# General settings
+global:
+  project_name: "Global Climate Control System"
+  version: "1.0.0"
+  log_level: "INFO"
+
+# API settings
+api:
+  host: "localhost"
+  port: 5000
+  endpoints:
+    climate_data: "/api/climate"
+    predictive_model: "/api/predict"
+    geoengineering: "/api/geoengineering"
+
+# IoT device settings
+iot:
+  devices:
+    - id: "sensor_1"
+      type: "temperature"
+      location: "Greenland"
+      sampling_rate: 60  # in seconds
+    - id: "sensor_2"
+      type: "humidity"
+      location: "Amazon Rainforest"
+      sampling_rate: 120  # in seconds
+
+# Machine Learning model settings
+ml:
+  model_path: "./models/climate_model.pkl"
+  training:
+    epochs: 100
+    batch_size: 32
+    learning_rate: 0.001
