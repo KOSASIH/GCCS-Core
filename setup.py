@@ -18,7 +18,7 @@ setup(
         "Flask-RESTful==0.3.9",
         "pandas==1.5.3",
         "numpy==1.23.5",
-        "scikit-learn==1.2.0",
+        "scikit-learn==1.5.0",
         "tensorflow==2.11.0",
         "joblib==1.2.0",
         "PyYAML==6.0",
