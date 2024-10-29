@@ -19,7 +19,7 @@ setup(
         "pandas==1.5.3",
         "numpy==1.23.5",
         "scikit-learn==1.2.0",
-        "tensorflow==2.11.0",
+        "tensorflow==2.12.1",
         "joblib==1.2.0",
         "PyYAML==6.0",
         "requests==2.28.1",

@@ -12,7 +12,7 @@ numpy==1.23.5  # Numerical computing
 
 # Machine learning
 scikit-learn==1.2.0  # Machine learning library
-tensorflow==2.11.0  # Deep learning framework
+tensorflow==2.12.1  # Deep learning framework
 joblib==1.2.0  # Lightweight pipelining in Python
 
 # YAML parsing
