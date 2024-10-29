@@ -33,6 +33,27 @@
 [![Google Cloud Professional Machine Learning Engineer](https://img.shields.io/badge/Google_Cloud_Professional_Machine_Learning_Engineer-Certified-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com/certification/machine-learning-engineer)
 [![Certified Information Privacy Technologist (CIPT)](https://img.shields.io/badge/CIPT-Certified-5CBBF6?style=flat&logo=iapp)](https://iapp.org/certify/cipt/)
 
+[![OECD Certified](https://img.shields.io/badge/OECD-Certified-5CBBF6?style=flat&logo=oecd)](https://www.oecd.org/)
+[![UN Certified](https://img.shields.io/badge/UN-Certified-0072C6?style=flat&logo=un)](https://www.un.org/)
+[![World Bank Certified](https://img.shields.io/badge/World_Bank-Certified-FF5733?style=flat&logo=worldbank)](https://www.worldbank.org/)
+[![IMF Certified](https://img.shields.io/badge/IMF-Certified-FF9900?style=flat&logo=imf)](https://www.imf.org/)
+[![WTO Certified](https://img.shields.io/badge/WTO-Certified-0072C6?style=flat&logo=wto)](https://www.wto.org/)
+[![FAO Certified](https://img.shields.io/badge/FAO-Certified-5CBBF6?style=flat&logo=fao)](http://www.fao.org/)
+[![UNICEF Certified](https://img.shields.io/badge/UNICEF-Certified-FF5733?style=flat&logo=unicef)](https://www.unicef.org/)
+[![WHO Certified](https://img.shields.io/badge/WHO-Certified-0072C6?style=flat&logo=who)](https://www.who.int/)
+[![IAEA Certified](https://img.shields.io/badge/IAEA-Certified-5CBBF6?style=flat&logo=iaea)](https://www.iaea.org/)
+[![UNESCO World Heritage](https://img.shields.io/badge/UNESCO_World_Heritage-Certified-FF9900?style=flat&logo=unesco)](https://whc.unesco.org/)
+[![G20 Certified](https://img.shields.io/badge/G20-Certified-5CBBF6?style=flat&logo=g20)](https://g20.org/)
+[![G7 Certified](https://img.shields.io/badge/G7-Certified-FF5733?style=flat&logo=g7)](https://www.g7germany.de/g7-en)
+[![ASEAN Certified](https://img.shields.io/badge/ASEAN-Certified-0072C6?style=flat&logo=asean)](https://asean.org/)
+[![African Union Certified](https://img.shields.io/badge/African_Union-Certified-5CBBF6?style=flat&logo=africanunion)](https://au.int/)
+[![Commonwealth Certified](https://img.shields.io/badge/Commonwealth-Certified-FF9900?style=flat&logo=commonwealth)](https://thecommonwealth.org/)
+[![Arab League Certified](https://img.shields.io/badge/Arab_League-Certified-0072C6?style=flat&logo=arableague)](https://www.arableagueonline.org/)
+[![Organization of American States (OAS) Certified](https://img.shields.io/badge/OAS-Certified-5CBBF6?style=flat&logo=oasis)](https://www.oas.org/)
+[![International Red Cross Certified](https://img.shields.io/badge/Red_Cross-Certified-FF5733?style=flat&logo=redcross)](https://www.icrc.org/)
+[![World Wildlife Fund (WWF) Certified](https://img.shields.io/badge/WWF-Certified-0072C6?style=flat&logo=wwf)](https://www.worldwildlife.org/)
+[![Greenpeace Certified](https://img.shields.io/badge/Greenpeace-Certified-5CBBF6?style=flat&logo=greenpeace)](https://www.greenpeace.org/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/GCCS-Core">Global Climate Control System ( GCCS ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # GCCS-Core
