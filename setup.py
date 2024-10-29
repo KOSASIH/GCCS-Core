@@ -14,7 +14,7 @@ setup(
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     install_requires=[
-        "Flask==2.2.2",
+        "Flask==2.2.5",
         "Flask-RESTful==0.3.9",
         "pandas==1.5.3",
         "numpy==1.23.5",
